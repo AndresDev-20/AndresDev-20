@@ -4,7 +4,7 @@
     <img src="./Images/Header.png" alt="">
    </figure>
    <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-  <h1 style="text-align: center; color: #4CAF50;">👋👨‍💻</h1>
+  <h1 style="text-align: center; color: #4CAF50;">👋Know a little about me👨‍💻</h1>
   <p style="text-align: center; font-size: 18px;">
     I am a passionate Full-Stack Developer dedicated to creating modern and functional web applications. 
     Learning new technologies and solving challenging problems through code is my superpower. 🚀
@@ -12,7 +12,8 @@
   
   <h2 style="color: #4CAF50;">🛠️ My Main Skills:</h2>
   <ul>
-    <li><strong>Frontend:</strong> React.js, Redux, Tailwind CSS, JavaScript, TypeScript</li>
+    <li><strong>Languages:</strong> JavaScript, TypeScript, Python, Java</li>
+    <li><strong>Frontend:</strong> React.js, Redux, Tailwind CSS</li>
     <li><strong>Backend:</strong> Node.js, Express.js, Spring Boot</li>
     <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, SQLite</li>
     <li><strong>Additional Tools:</strong> Git/GitHub, Figma, Postman</li>
