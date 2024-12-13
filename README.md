@@ -1,1 +1,1 @@
-<h1>Hello, I am Yeison Marroquin</h1>
+<h1 style{{text: center}}>Hello, I am Yeison Marroquin</h1>
