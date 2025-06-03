@@ -46,7 +46,7 @@
       </tr>
       <tr style="background-color: #f9f9f9;">
         <td style="padding: 8px; border: 1px solid #ddd;"><strong>Computers Store (Vanilla)</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">A simulated online store using HTML, CSS, and JS Vanilla.</td>
+        <td style="padding: 8px; border: 1px solid #ddd;">A simulated online store using HTML, and CSS.</td>
         <td style="padding: 8px; border: 1px solid #ddd;">HTML, CSS.</td>
       </tr>
     </tbody>
