@@ -83,23 +83,36 @@
 
   <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
 
-<div style="text-align: center;">
-  
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
-    style="max-width: 100%; height: auto;"
-  />
+<div align="center">
 
-  <br/>
-
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical"
-    alt="Most Used Languages"
-    style="max-width: 100%; height: auto; margin-top: 10px;"
-  />
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical"
+          alt="GitHub Stats"
+          height="180"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10"
+          alt="Most Used Languages"
+          height="180"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-streak-stats-eight.vercel.app/?user=AndresDev-20&theme=radical&hide_border=false"
+          alt="GitHub Streak"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
   <hr/>
