@@ -83,7 +83,7 @@
 
   <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="start">
 
   <table>
     <tr>
@@ -98,14 +98,7 @@
         <img 
           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10"
           alt="Most Used Languages"
-          height="180"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-streak-stats-eight.vercel.app/?user=AndresDev-20&theme=radical&hide_border=false"
-          alt="GitHub Streak"
-          height="180"
+          height="250"
         />
       </td>
     </tr>
