@@ -1,5 +1,3 @@
-mejoramelo al 100%:
-
 <body>
    <figure>
     <img src="./Images/Header.png" alt="">
