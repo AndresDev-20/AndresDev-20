@@ -4,11 +4,16 @@
     <img src="./Images/Header.png" alt="">
    </figure>
    <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-  <h1 style="text-align: center; color: #4CAF50;">👋Know a little about me👨‍💻</h1>
-  <p style="text-align: center; font-size: 18px;">
-    I am a passionate Full-Stack Developer dedicated to creating modern and functional web applications. 
-    Learning new technologies and solving challenging problems through code is my superpower. 🚀
-  </p>
+  <!-- INTRO -->
+    <h1 style="text-align: center; color: #4CAF50;">
+      👋 Hi, I'm Yeison Andrés 👨‍💻
+    </h1>
+    <p style="text-align: center; font-size: 18px;">
+      <strong>Backend / Full-Stack Developer</strong> focused on building
+      scalable APIs, web applications, and reliable software solutions.
+      I enjoy solving real-world problems through clean code, modern
+      technologies, and continuous learning. 🚀
+    </p>
     <!-- TECH STACK -->
     <h2 style="color: #4CAF50;">🛠️ Tech Stack</h2>
     <h3>💻 Languages</h3>
