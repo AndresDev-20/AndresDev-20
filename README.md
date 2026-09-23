@@ -154,7 +154,6 @@
       <li>🔹 Automation and AI integrations</li>
       <li>🔹 Software development with Node.js, TypeScript and Python</li>
     </ul>
-    <hr/>
     <!-- GITHUB STATS -->
     <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
     <div align="center">
