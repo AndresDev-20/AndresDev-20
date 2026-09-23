@@ -145,10 +145,90 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical"
         alt="Most Used Languages" style="max-width: 100%; height: auto; margin-top: 10px;" />
     </div>
-    <h2 style="color: #4CAF50;">🌟 Inspiring Quote:</h2>
-    <blockquote style="font-style: italic; border-left: 4px solid #4CAF50; padding-left: 16px; color: #555;">
-      "Code is like art: there is always something new to discover and learn. Never stop creating." 🌟
+     <!-- BACKEND FOCUS -->
+    <h2 style="color: #4CAF50;">⚙️ Backend Focus</h2>
+    <p>
+      My main area of interest is backend development, where I enjoy
+      designing APIs, working with databases, implementing authentication,
+      integrating external services, and building maintainable software.
+    </p>
+    <ul>
+      <li>🔹 REST API development</li>
+      <li>🔹 Authentication & authorization</li>
+      <li>🔹 Relational & NoSQL databases</li>
+      <li>🔹 API integrations</li>
+      <li>🔹 Backend architecture</li>
+      <li>🔹 Data validation</li>
+      <li>🔹 Automation and AI integrations</li>
+      <li>🔹 Software development with Node.js, TypeScript and Python</li>
+    </ul>
+    <hr/>
+    <!-- GITHUB STATS -->
+    <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical&hide_border=true"
+              alt="GitHub Stats"
+              height="180"
+            />
+          </td>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10&hide_border=true"
+              alt="Most Used Languages"
+              height="180"
+            />
+          </td>
+        </tr>
+      </table>
+    </div>
+    <!-- CURRENT INTERESTS -->
+    <h2 style="color: #4CAF50;">🌱 Currently Interested In</h2>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AI-412991?style=flat" alt="AI"/>
+      <img src="https://img.shields.io/badge/Automation-006CFF?style=flat" alt="Automation"/>
+    </p>
+    <!-- CONTACT -->
+    <h2 style="color: #4CAF50;">📫 Let's Connect</h2>
+    <p>
+      I'm open to professional opportunities, collaborations,
+      interesting software projects, and new challenges.
+    </p>
+    <p>
+      <a href="https://github.com/AndresDev-20">
+        <img
+          src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+      <a href="https://www.linkedin.com/">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </p>
+    <!-- QUOTE -->
+    <h2 style="color: #4CAF50;">🌟 Inspiring Quote</h2>
+    <blockquote style="
+      font-style: italic;
+      border-left: 4px solid #4CAF50;
+      padding-left: 16px;
+      color: #555;
+    ">
+      "Code is like art: there is always something new to discover and learn.
+      Never stop creating."
     </blockquote>
+
   </div>
 
 </body>
