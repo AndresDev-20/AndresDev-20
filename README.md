@@ -71,72 +71,89 @@
     </p>
     <!-- FEATURED PROJECTS -->
     <h2 style="color: #4CAF50;">🚀 Featured Projects</h2>
-    <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
-      <thead>
-        <tr style="background-color: #f2f2f2;">
-          <th style="padding: 8px; border: 1px solid #ddd;">
-            Project
-          </th>
-          <th style="padding: 8px; border: 1px solid #ddd;">
-            Description
-          </th>
-          <th style="padding: 8px; border: 1px solid #ddd;">
-            Technologies
-          </th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            <strong>UniverCity</strong>
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            University education platform designed to manage academic
-            programs, semesters, grades, and users with different roles.
-            Includes authentication and structured academic management.
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            Python, FastAPI, PostgreSQL, Alembic, JWT, Pydantic.
-          </td>
-        </tr>
-        <tr style="background-color: #f9f9f9;">
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            <strong>Pokédex Frontend</strong>
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            Single Page Application that consumes the public Pokémon API
-            to display and explore Pokémon information.
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            JavaScript, React.js, CSS, REST API.
-          </td>
-        </tr>
-        <tr>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            <strong>Rick and Morty App</strong>
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            React application that consumes the Rick and Morty API,
-            allowing users to explore characters and their information.
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            JavaScript, React.js, REST API, CSS.
-          </td>
-        </tr>
-        <tr style="background-color: #f9f9f9;">
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            <strong>Computers Store</strong>
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            Responsive computer store interface developed from scratch
-            using semantic HTML and CSS.
-          </td>
-          <td style="padding: 8px; border: 1px solid #ddd;">
-            HTML5, CSS3.
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <!-- FEATURED PROJECTS -->
+
+<h2 style="color: #4CAF50;">🚀 Featured Projects</h2>
+
+<table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
+
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 8px; border: 1px solid #ddd;">
+        Project
+      </th>
+      <th style="padding: 8px; border: 1px solid #ddd;">
+        Description
+      </th>
+      <th style="padding: 8px; border: 1px solid #ddd;">
+        Technologies
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <!-- NUFFYS -->
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <strong>Nuffys</strong>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        Comprehensive clinical and administrative management system
+        developed as a RESTful API for specialized therapy clinics.
+        It manages users, roles, patients, clinical records, appointments,
+        invoicing, and partial payments, with JWT authentication and
+        role-based access control.
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        Node.js, Express.js, MySQL, Sequelize, JWT, bcrypt.
+      </td>
+    </tr>
+    <!-- UNIVERSITY -->
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <strong>UniverCity</strong>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        University education platform designed to manage academic
+        programs, semesters, grades, and users with different roles.
+        Includes authentication, academic management, data validation,
+        and structured database migrations.
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        Python, FastAPI, PostgreSQL, Alembic, JWT, Pydantic.
+      </td>
+    </tr>
+    <!-- DOMINOS STORE -->
+    <tr>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <strong>Dominós Store</strong>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        E-commerce backend currently under development, designed to
+        manage users, roles, products, shopping carts, cart details,
+        and product images. The API follows a modular structure with
+        database migrations and authentication.
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        Node.js, Express.js, MySQL, Sequelize, JWT, bcrypt, Nodemon.
+      </td>
+    </tr>
+    <!-- RICK AND MORTY -->
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        <strong>Rick and Morty App</strong>
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        React application that consumes the public Rick and Morty API,
+        allowing users to explore characters and their information
+        through a dynamic and interactive interface.
+      </td>
+      <td style="padding: 8px; border: 1px solid #ddd;">
+        JavaScript, React.js, REST API, CSS.
+      </td>
+    </tr>
+  </tbody>
+</table>
      <!-- BACKEND FOCUS -->
     <h2 style="color: #4CAF50;">⚙️ Backend Focus</h2>
     <p>
