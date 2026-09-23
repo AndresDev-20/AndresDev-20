@@ -69,7 +69,6 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
     </p>
-    <hr />
     <!-- FEATURED PROJECTS -->
     <h2 style="color: #4CAF50;">🚀 Featured Projects</h2>
     <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
@@ -138,7 +137,6 @@
         </tr>
       </tbody>
     </table>
-    <hr />
     <h2 style="color: #4CAF50;">📊 GitHub Stats:</h2>
     <div style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical"
