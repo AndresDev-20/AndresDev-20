@@ -190,34 +190,21 @@ Backend for an e-commerce platform currently under development.
 
 ---
 
+##
 ## 📊 GitHub Activity
 
 <p align="center">
-
   <img
-    src="https://img.shields.io/github/followers/AndresDev-20?style=for-the-badge&label=Followers&logo=github"
-    alt="GitHub Followers"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub Profile Details"
   />
-
-  <img
-    src="https://img.shields.io/github/stars/AndresDev-20?style=for-the-badge&label=Stars&logo=github"
-    alt="GitHub Stars"
-  />
-
-  <img
-    src="https://img.shields.io/github/repos/AndresDev-20?style=for-the-badge&label=Public%20Repositories&logo=github"
-    alt="Public Repositories"
-  />
-
 </p>
 
 <p align="center">
-  <a href="https://github.com/AndresDev-20">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
