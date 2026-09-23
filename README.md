@@ -14,7 +14,6 @@
       technologies, and continuous learning. 🚀
     </p>
     <!-- ABOUT -->
-    <h2 style="color: #4CAF50;">👨‍💻 About Me</h2>
     <ul>
       <li>🌎 Based in Tolima, Colombia.</li>
       <li>💻 Backend-focused Full-Stack Developer.</li>
