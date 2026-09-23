@@ -145,7 +145,6 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical"
         alt="Most Used Languages" style="max-width: 100%; height: auto; margin-top: 10px;" />
     </div>
-
     <h2 style="color: #4CAF50;">🌟 Inspiring Quote:</h2>
     <blockquote style="font-style: italic; border-left: 4px solid #4CAF50; padding-left: 16px; color: #555;">
       "Code is like art: there is always something new to discover and learn. Never stop creating." 🌟
