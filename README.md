@@ -6,7 +6,7 @@
    <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
   <!-- INTRO -->
     <h1 style="text-align: center; color: #4CAF50;">
-      👋 Hi, I'm Yeison Andrés 👨‍💻
+      👋 Know a little about me 👨‍💻
     </h1>
     <p style="text-align: center; font-size: 18px;">
       <strong>Backend / Full-Stack Developer</strong> focused on building
