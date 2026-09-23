@@ -70,7 +70,6 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
     </p>
     <hr />
-
     <!-- FEATURED PROJECTS -->
     <h2 style="color: #4CAF50;">🚀 Featured Projects</h2>
     <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
