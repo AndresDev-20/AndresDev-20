@@ -1,123 +1,248 @@
 <body>
+
   <figure>
-    <img src="./Images/Header.png" alt="Header Image" style="width: 100%; border-radius: 12px;">
+    <img 
+      src="./Images/Header.png" 
+      alt="Header Image" 
+      style="width: 100%; border-radius: 12px;"
+    >
   </figure>
 
   <div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-
-  <h1 style="text-align: center; color: #4CAF50;">👋 Know a Little About Me 👨‍💻</h1>
-  <p style="text-align: center; font-size: 18px;">
-    I am a passionate <strong>Full-Stack Developer</strong> dedicated to building modern, scalable, 
-    and visually appealing web applications.  
-    Learning new technologies and solving complex problems through code is my superpower 🚀
-  </p>
-
-  <hr/>
-
-  <h2 style="color: #4CAF50;">🛠️ My Main Skills</h2>
-  <ul>
-    <li><strong>Languages:</strong> JavaScript, TypeScript, Python, Java.</li>
-    <li><strong>Frontend:</strong> React.js, Redux, Tailwind CSS.</li>
-    <li><strong>Backend:</strong> Node.js, Express.js, FastAPI, Django, Spring Boot.</li>
-    <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, SQLite.</li>
-    <li><strong>Tools:</strong> Git/GitHub, Figma, Postman.</li>
-  </ul>
-
-  <hr/>
-
-  <h2 style="color: #4CAF50;">📌 Featured Projects</h2>
-
-  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
-    <thead>
-      <tr style="background-color: #f2f2f2;">
-        <th style="padding: 8px; border: 1px solid #ddd;">Project</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Description</th>
-        <th style="padding: 8px; border: 1px solid #ddd;">Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>UniverCity</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">
-          UniverCity is a university education platform built with FastAPI, featuring program tracking,
-          semesters, grades, and multi-role user management.
-        </td>
-        <td style="padding: 8px; border: 1px solid #ddd;">Python, FastAPI, PostgreSQL, Alembic, JWT, Pydantic.</td>
-      </tr>
-      <tr style="background-color: #f9f9f9;">
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Pokedex Frontend</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">
-          Pokedex SPA developed with React and the public Pokémon API.
-        </td>
-        <td style="padding: 8px; border: 1px solid #ddd;">JavaScript, React.js, CSS.</td>
-      </tr>
-      <tr style="background-color: #f9f9f9;">
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Rick and Morty App</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">
-          Character explorer app built with React and the Rick and Morty API.
-        </td>
-        <td style="padding: 8px; border: 1px solid #ddd;">JavaScript, React.js, Public API.</td>
-      </tr>
-      <tr style="background-color: #f9f9f9;">
-        <td style="padding: 8px; border: 1px solid #ddd;"><strong>Computers Store (Vanilla)</strong></td>
-        <td style="padding: 8px; border: 1px solid #ddd;">
-          An online computer store created using only HTML and CSS.
-        </td>
-        <td style="padding: 8px; border: 1px solid #ddd;">HTML, CSS.</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <hr/>
-
-  <h2 style="color: #4CAF50;">👨‍💻 About Me</h2>
-  <ul>
-    <li>🌍 From Ibagué, Tolima, Colombia.</li>
-    <li>🕒 Time zone: GMT-5.</li>
-    <li>🎓 Specializing in Full-Stack Web Development.</li>
-    <li>🧠 Passionate about learning new technologies like Next.js.</li>
-    <li>✨ Always looking for new challenges and professional growth.</li>
-  </ul>
-
-  <hr/>
-
-  <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
-
-<div align="start">
-
-  <table>
-    <tr>
-      <td>
+    <!-- INTRO -->
+    <h1 style="text-align: center; color: #4CAF50;">
+      👋 Hi, I'm Yeison Andrés 👨‍💻
+    </h1>
+    <p style="text-align: center; font-size: 18px;">
+      <strong>Backend / Full-Stack Developer</strong> focused on building
+      scalable APIs, web applications, and reliable software solutions.
+      I enjoy solving real-world problems through clean code, modern
+      technologies, and continuous learning. 🚀
+    </p>
+    <p style="text-align: center;">
+      <a href="https://github.com/AndresDev-20">
         <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical"
-          alt="GitHub Stats"
-          height="180"
+          src="https://img.shields.io/github/followers/AndresDev-20?label=Followers&style=flat"
+          alt="GitHub Followers"
         />
-      </td>
-      <td>
+      </a>
+      <a href="https://github.com/AndresDev-20">
         <img 
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10"
-          alt="Most Used Languages"
-          height="250"
+          src="https://img.shields.io/github/stars/AndresDev-20?label=Stars&style=flat"
+          alt="GitHub Stars"
         />
-      </td>
-    </tr>
-  </table>
+      </a>
+    </p>
+    <hr/>
+    <!-- ABOUT -->
+    <h2 style="color: #4CAF50;">👨‍💻 About Me</h2>
+    <ul>
+      <li>🌎 Based in Tolima, Colombia.</li>
+      <li>💻 Backend-focused Full-Stack Developer.</li>
+      <li>🚀 Experience building REST APIs and web applications.</li>
+      <li>🧠 Interested in software architecture, automation, and AI.</li>
+      <li>📚 Continuously learning new technologies and best practices.</li>
+      <li>✨ Always looking for challenging projects and professional growth.</li>
+    </ul>
+    <hr/>
+    <!-- TECH STACK -->
+    <h2 style="color: #4CAF50;">🛠️ Tech Stack</h2>
+    <h3>💻 Languages</h3>
+    <p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+    </p>
+    <h3>🎨 Frontend</h3>
+    <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+    </p>
+    <h3>⚙️ Backend</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat" alt="REST APIs"/>
+    </p>
+    <h3>🗄️ Databases</h3>
+    <p>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+    </p>
+    <h3>🔧 Tools & Technologies</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+    </p>
+    <hr/>
+    <!-- FEATURED PROJECTS -->
+    <h2 style="color: #4CAF50;">🚀 Featured Projects</h2>
+    <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 16px;">
+      <thead>
+        <tr style="background-color: #f2f2f2;">
+          <th style="padding: 8px; border: 1px solid #ddd;">
+            Project
+          </th>
+          <th style="padding: 8px; border: 1px solid #ddd;">
+            Description
+          </th>
+          <th style="padding: 8px; border: 1px solid #ddd;">
+            Technologies
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            <strong>UniverCity</strong>
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            University education platform designed to manage academic
+            programs, semesters, grades, and users with different roles.
+            Includes authentication and structured academic management.
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Python, FastAPI, PostgreSQL, Alembic, JWT, Pydantic.
+          </td>
+        </tr>
+        <tr style="background-color: #f9f9f9;">
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            <strong>Pokédex Frontend</strong>
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Single Page Application that consumes the public Pokémon API
+            to display and explore Pokémon information.
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            JavaScript, React.js, CSS, REST API.
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            <strong>Rick and Morty App</strong>
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            React application that consumes the Rick and Morty API,
+            allowing users to explore characters and their information.
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            JavaScript, React.js, REST API, CSS.
+          </td>
+        </tr>
+        <tr style="background-color: #f9f9f9;">
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            <strong>Computers Store</strong>
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            Responsive computer store interface developed from scratch
+            using semantic HTML and CSS.
+          </td>
+          <td style="padding: 8px; border: 1px solid #ddd;">
+            HTML5, CSS3.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr/>
+    <!-- BACKEND FOCUS -->
+    <h2 style="color: #4CAF50;">⚙️ Backend Focus</h2>
+    <p>
+      My main area of interest is backend development, where I enjoy
+      designing APIs, working with databases, implementing authentication,
+      integrating external services, and building maintainable software.
+    </p>
+    <ul>
+      <li>🔹 REST API development</li>
+      <li>🔹 Authentication & authorization</li>
+      <li>🔹 Relational & NoSQL databases</li>
+      <li>🔹 API integrations</li>
+      <li>🔹 Backend architecture</li>
+      <li>🔹 Data validation</li>
+      <li>🔹 Automation and AI integrations</li>
+      <li>🔹 Software development with Node.js, TypeScript and Python</li>
+    </ul>
+    <hr/>
+    <!-- GITHUB STATS -->
+    <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical&hide_border=true"
+              alt="GitHub Stats"
+              height="180"
+            />
+          </td>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10&hide_border=true"
+              alt="Most Used Languages"
+              height="180"
+            />
+          </td>
+        </tr>
+      </table>
+    </div>
+    <hr/>
+    <!-- CURRENT INTERESTS -->
+    <h2 style="color: #4CAF50;">🌱 Currently Interested In</h2>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/AI-412991?style=flat" alt="AI"/>
+      <img src="https://img.shields.io/badge/Automation-006CFF?style=flat" alt="Automation"/>
+    </p>
+    <hr/>
+    <!-- CONTACT -->
+    <h2 style="color: #4CAF50;">📫 Let's Connect</h2>
+    <p>
+      I'm open to professional opportunities, collaborations,
+      interesting software projects, and new challenges.
+    </p>
+    <p>
+      <a href="https://github.com/AndresDev-20">
+        <img
+          src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+      <a href="https://www.linkedin.com/">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </p>
+    <hr/>
+    <!-- QUOTE -->
+    <h2 style="color: #4CAF50;">🌟 Inspiring Quote</h2>
+    <blockquote style="
+      font-style: italic;
+      border-left: 4px solid #4CAF50;
+      padding-left: 16px;
+      color: #555;
+    ">
+      "Code is like art: there is always something new to discover and learn.
+      Never stop creating."
+    </blockquote>
 
-</div>
+  </div>
 
-
-
-  <hr/>
-
-  <h2 style="color: #4CAF50;">🌟 Inspiring Quote</h2>
-  <blockquote style="
-    font-style: italic; 
-    border-left: 4px solid #4CAF50; 
-    padding-left: 16px; 
-    color: #555;">
-    "Code is like art: there is always something new to discover and learn. Never stop creating."
-  </blockquote>
-
-</div>
 </body>
