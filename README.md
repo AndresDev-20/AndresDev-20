@@ -171,28 +171,6 @@
       <li>🔹 Automation and AI integrations</li>
       <li>🔹 Software development with Node.js, TypeScript and Python</li>
     </ul>
-    <!-- GITHUB STATS -->
-    <h2 style="color: #4CAF50;">📊 GitHub Stats</h2>
-    <div align="center">
-      <table>
-        <tr>
-          <td>
-            <img
-              src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical&hide_border=true"
-              alt="GitHub Stats"
-              height="180"
-            />
-          </td>
-          <td>
-            <img
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical&langs_count=10&hide_border=true"
-              alt="Most Used Languages"
-              height="180"
-            />
-          </td>
-        </tr>
-      </table>
-    </div>
     <!-- CURRENT INTERESTS -->
     <h2 style="color: #4CAF50;">🌱 Currently Interested In</h2>
     <p>
@@ -204,26 +182,6 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/AI-412991?style=flat" alt="AI"/>
       <img src="https://img.shields.io/badge/Automation-006CFF?style=flat" alt="Automation"/>
-    </p>
-    <!-- CONTACT -->
-    <h2 style="color: #4CAF50;">📫 Let's Connect</h2>
-    <p>
-      I'm open to professional opportunities, collaborations,
-      interesting software projects, and new challenges.
-    </p>
-    <p>
-      <a href="https://github.com/AndresDev-20">
-        <img
-          src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-          alt="GitHub"
-        />
-      </a>
-      <a href="https://www.linkedin.com/">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn"
-        />
-      </a>
     </p>
     <!-- QUOTE -->
     <h2 style="color: #4CAF50;">🌟 Inspiring Quote</h2>
