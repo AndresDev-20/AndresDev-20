@@ -137,14 +137,6 @@
         </tr>
       </tbody>
     </table>
-    <h2 style="color: #4CAF50;">📊 GitHub Stats:</h2>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AndresDev-20&show_icons=true&theme=radical"
-        alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDev-20&layout=compact&theme=radical"
-        alt="Most Used Languages" style="max-width: 100%; height: auto; margin-top: 10px;" />
-    </div>
      <!-- BACKEND FOCUS -->
     <h2 style="color: #4CAF50;">⚙️ Backend Focus</h2>
     <p>
